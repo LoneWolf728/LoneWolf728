@@ -52,12 +52,20 @@ A Flutter + Firebase app that connects university students with study partners v
 
 ---
 
-### 🧲 [Google Keep Plasmoid](https://github.com/LoneWolf728/Google-Keep-Plasmoid-for-KDE-Plasma-6)  
+### 📝 [Google Keep Plasmoid](https://github.com/LoneWolf728/Google-Keep-Plasmoid-for-KDE-Plasma-6)  
 A sleek KDE Plasma 6 widget for quick access to Google Keep — right from your panel.  
 
 <img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white"> <img src="https://img.shields.io/badge/QML-4B6EAF?style=for-the-badge&logo=qt&logoColor=white">
 
 ---
+
+### ▶️ [YouTube Plasmoid](https://github.com/LoneWolf728/YouTube-Plasmoid-for-KDE-Plasma-6)  
+A KDE Plasma widget that provides quick access to YouTube directly from your desktop or panel.
+
+<img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white"> <img src="https://img.shields.io/badge/QML-4B6EAF?style=for-the-badge&logo=qt&logoColor=white">
+
+---
+
 
 ### 🔐 [Task Manager](https://github.com/LoneWolf728/task-manager)  
 A secure, scalable task management app built with Spring Boot, Angular, MongoDB, and Docker.  
