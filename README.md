@@ -8,7 +8,7 @@
 </p>
 
 # Hey, I’m Lykos 🐺
-Quietly building things that work (or sometimes don’t). Software developer with a curious mind, a keyboard, and a Fedora (the Linux kind).
+Quietly building things that work (or sometimes don’t). Software developer with a curious mind, a keyboard, and a Fedora (🐧 kind).
 
 
 <!-- Top row: First and third items side-by-side -->
