@@ -70,6 +70,16 @@ I’m a developer who gets things done, with a knack for **cybersecurity**, **au
 
 ## 🛠️ Projects I Actually Care About
 
+### 💭 [Whispers Unheard](https://whispersunheard.netlify.app/)  
+A React + Supabase platform for Sri Lankans to anonymously share untold stories and unsent messages — a digital sanctuary for emotions that never found their voice.  
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="animated_gradient_line.gif" width="100%" />
+</p>
+
 ### 🔗 [LinkaPal](https://www.linkapal.com)  
 A Flutter + Firebase app that connects university students with study partners via smart matching.  
 
