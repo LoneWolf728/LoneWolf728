@@ -110,7 +110,7 @@ A KDE Plasma widget that provides quick access to YouTube directly from your des
   <img src="animated_gradient_line.gif" width="100%" />
 </p>
 
-### 🔐 [Task Manager](https://github.com/LoneWolf728/task-manager)  
+### 🔐 [Task Manager](https://task-manager-rouge-five.vercel.app)  
 A secure, scalable task management app built with Spring Boot, Angular, MongoDB, and Docker.  
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
