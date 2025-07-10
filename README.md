@@ -90,6 +90,16 @@ A Flutter + Firebase app that connects university students with study partners v
   <img src="animated_gradient_line.gif" width="100%" />
 </p>
 
+### 🔐 [Task Manager](https://task-manager-rouge-five.vercel.app)  
+A secure, scalable task management app built with Spring Boot, Angular, MongoDB, and Docker.  
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="animated_gradient_line.gif" width="100%" />
+</p>
+
 ### 📝 [Google Keep Plasmoid](https://github.com/LoneWolf728/Google-Keep-Plasmoid-for-KDE-Plasma-6)  
 A sleek KDE Plasma 6 widget for quick access to Google Keep — right from your panel.  
 
@@ -104,16 +114,6 @@ A sleek KDE Plasma 6 widget for quick access to Google Keep — right from your 
 A KDE Plasma widget that provides quick access to YouTube directly from your desktop or panel.
 
 <img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white"> <img src="https://img.shields.io/badge/QML-4B6EAF?style=for-the-badge&logo=qt&logoColor=white">
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="animated_gradient_line.gif" width="100%" />
-</p>
-
-### 🔐 [Task Manager](https://task-manager-rouge-five.vercel.app)  
-A secure, scalable task management app built with Spring Boot, Angular, MongoDB, and Docker.  
-
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 <!-- Animated Divider -->
 <p align="center">
