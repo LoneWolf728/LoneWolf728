@@ -68,7 +68,7 @@ I’m a developer who gets things done, with a knack for **cybersecurity**, **au
   <img src="animated_gradient_line.gif" width="100%" />
 </p>
 
-## 🛠️ Projects I Actually Care About
+## 🛠️ Projects
 
 ### 💭 [Whispers Unheard](https://whispersunheard.netlify.app/)  
 A React + Supabase platform for Sri Lankans to anonymously share untold stories and unsent messages — a digital sanctuary for emotions that never found their voice.  
