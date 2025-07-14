@@ -7,7 +7,7 @@
   <img src="animated_gradient_line.gif" width="100%" />
 </p>
 
-# Hey, I’m Lykos 🐺
+# Hola, I’m Dineth
 Quietly building things that work (or sometimes don’t). Software developer with a curious mind, a keyboard, and a Fedora (🐧 kind).
 
 
@@ -23,8 +23,8 @@ Quietly building things that work (or sometimes don’t). Software developer wit
 </div>
 
 <p align="center">
-  <a href="https://dineth.online" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-dineth.online-1f2023?style=for-the-badge&logo=firefox-browser&logoColor=white">
+  <a href="https://lykon.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Under Construction-1f2023?style=for-the-badge&logo=firefox-browser&logoColor=white">
   </a>
   <a href="mailto:dineth.sewwanda@protonmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-dineth.sewwanda@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
@@ -186,7 +186,7 @@ When I’m not glued to VS Code, you’ll catch me:
 ## 📫 Let’s Connect
 
 - 📧 [dineth.sewwanda@protonmail.com](mailto:dineth.sewwanda@protonmail.com)  
-- 🌐 [dineth.online](https://dineth.online) *(if I remembered to pay the domain bill :D )*  
+- 🌐 [Portfolio](https://lykon.netlify.app/) *(if I remembered to pay the domain bill :D or if I acutually finish building it...)*  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dinethsewwanda)  
 - 🎮 [Steam](https://steamcommunity.com/id/lonewolf728)
 
