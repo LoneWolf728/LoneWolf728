@@ -90,7 +90,7 @@ A Flutter + Firebase app that connects university students with study partners v
   <img src="animated_gradient_line.gif" width="100%" />
 </p>
 
-### 🔐 [Task Manager](https://task-manager-rouge-five.vercel.app)  
+### 🔐 [Task Manager](https://task-manager-rouge-five.vercel.app/auth/login)  
 A secure, scalable task management app built with Spring Boot, Angular, MongoDB, and Docker.  
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
