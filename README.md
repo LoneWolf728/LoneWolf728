@@ -110,20 +110,20 @@ A Python GUI application that enables anonymous Instagram story downloads withou
   <img src="animated_gradient_line.gif" width="100%" />
 </p>
 
-### 📝 [Google Keep Plasmoid](https://github.com/LoneWolf728/Google-Keep-Plasmoid-for-KDE-Plasma-6)  
+### 📝 [Google Keep Plasmoid](https://www.pling.com/p/2293536/)  
 A sleek KDE Plasma 6 widget for quick access to Google Keep — right from your panel.  
 
-<img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white"> <img src="https://img.shields.io/badge/QML-4B6EAF?style=for-the-badge&logo=qt&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white"> <img src="https://img.shields.io/badge/QML-4B6EAF?style=for-the-badge&logo=qt&logoColor=white">
 
 <!-- Animated Divider -->
 <p align="center">
   <img src="animated_gradient_line.gif" width="100%" />
 </p>
 
-### ▶️ [YouTube Plasmoid](https://github.com/LoneWolf728/YouTube-Plasmoid-for-KDE-Plasma-6)  
+### ▶️ [YouTube Plasmoid](https://www.pling.com/p/2298904/)  
 A KDE Plasma widget that provides quick access to YouTube directly from your desktop or panel.
 
-<img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white"> <img src="https://img.shields.io/badge/QML-4B6EAF?style=for-the-badge&logo=qt&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white"> <img src="https://img.shields.io/badge/QML-4B6EAF?style=for-the-badge&logo=qt&logoColor=white">
 
 <!-- Animated Divider -->
 <p align="center">
