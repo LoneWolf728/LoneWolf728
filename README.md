@@ -206,8 +206,8 @@ When I’m not glued to VS Code, you’ll catch me:
   <a href="mailto:dineth.sewwanda@protonmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail">
   </a>
-  <a href="https://dineth.online" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-dineth.online-1f2023?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio">
+  <a href="http://dineth.co/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-dineth.co-1f2023?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/dinethsewwanda" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Dineth_Sewwanda-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" alt="LinkedIn">
