@@ -100,6 +100,16 @@ A secure, scalable task management app built with Spring Boot, Angular, MongoDB,
   <img src="animated_gradient_line.gif" width="100%" />
 </p>
 
+### 📸 [Instagram Downloader](https://github.com/LoneWolf728/Instagram-Downloader)  
+A Python GUI application that enables anonymous Instagram story downloads without marking them as "seen" — perfect for private viewing and bulk media downloads from both public and private accounts.  
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Tkinter-FF6B6B?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/InstCapture-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white"> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"> <img src="https://img.shields.io/badge/Threading-FFA500?style=for-the-badge&logo=python&logoColor=white">
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="animated_gradient_line.gif" width="100%" />
+</p>
+
 ### 📝 [Google Keep Plasmoid](https://github.com/LoneWolf728/Google-Keep-Plasmoid-for-KDE-Plasma-6)  
 A sleek KDE Plasma 6 widget for quick access to Google Keep — right from your panel.  
 
