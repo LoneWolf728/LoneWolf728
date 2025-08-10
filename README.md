@@ -196,7 +196,7 @@ When I’m not glued to VS Code, you’ll catch me:
 ## 📫 Let’s Connect
 
 - 📧 [dineth.sewwanda@protonmail.com](mailto:dineth.sewwanda@protonmail.com)  
-- 🌐 [Portfolio](https://lykon.netlify.app/) *(if I remembered to pay the domain bill :D or if I acutually finish building it...)*  
+- 🌐 [Portfolio](http://dineth.co/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dinethsewwanda)  
 - 🎮 [Steam](https://steamcommunity.com/id/lonewolf728)
 
