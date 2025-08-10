@@ -23,8 +23,8 @@ Quietly building things that work (or sometimes don’t). Software developer wit
 </div>
 
 <p align="center">
-  <a href="https://lykon.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Under Construction-1f2023?style=for-the-badge&logo=firefox-browser&logoColor=white">
+  <a href="http://dineth.co/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-dineth.co-1f2023?style=for-the-badge&logo=firefox-browser&logoColor=white">
   </a>
   <a href="mailto:dineth.sewwanda@protonmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-dineth.sewwanda@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
