@@ -150,27 +150,6 @@ A Chrome extension that (gently) roasts you for hoarding tabs like a digital dra
   <img src="animated_gradient_line.gif" width="100%" />
 </p>
 
-## 📜 Certifications
-
-- 🧠 JavaScript, Java, and Python Certifications (HackerRank)  
-- 🐳 Docker Foundations (Docker)  
-- 🛡️ Career Essentials in Cybersecurity (Microsoft & LinkedIn)
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-Python-2A865D?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Python Cert">
-  <img src="https://img.shields.io/badge/HackerRank-Java-5382A1?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Java Cert">
-  <img src="https://img.shields.io/badge/HackerRank-JavaScript-F7DF1E?style=for-the-badge&logo=hackerrank&logoColor=white" alt="JS Cert">
-  <img src="https://img.shields.io/badge/Docker-Foundations-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Cert">
-  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft-Cybersecurity-0078D6?logo=windows11&logoColor=white&style=for-the-badge" alt="Cybersecurity Cert">
-</p>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="animated_gradient_line.gif" width="100%" />
-</p>
-
 ## 🎯 Outside the Code
 
 <div align="center">
@@ -186,7 +165,6 @@ When I’m not glued to VS Code, you’ll catch me:
 - 🎥 Binge-watching sci-fi or medieval fantasy movies  
 - 🎶 Vibing to melancholic soundscapes  
 - 🏎️ Watching MotoGP and F1 races  
-- 🛠️ Modding my KDE setup (yes, I do that too)
 
 <!-- Animated Divider -->
 <p align="center">
@@ -194,13 +172,6 @@ When I’m not glued to VS Code, you’ll catch me:
 </p>
 
 ## 📫 Let’s Connect
-
-- 📧 [dineth.sewwanda@protonmail.com](mailto:dineth.sewwanda@protonmail.com)  
-- 🌐 [Portfolio](http://dineth.co/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dinethsewwanda)  
-- 🎮 [Steam](https://steamcommunity.com/id/lonewolf728)
-
-<br/>
 
 <p align="center">
   <a href="mailto:dineth.sewwanda@protonmail.com" target="_blank">
