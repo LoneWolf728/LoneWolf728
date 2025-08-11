@@ -19,7 +19,7 @@ Quietly building things that work (or sometimes don’t). Software developer wit
 
 <!-- Middle row: Centered second item -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=C084FC&duration=3000&pause=1000&width=300&lines=Security+Enthusiast" alt="Typing - Cyber"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=C084FC&duration=3000&pause=1000&width=300&lines=Security+Advocate" alt="Typing - Cyber"/>
 </div>
 
 <p align="center">
