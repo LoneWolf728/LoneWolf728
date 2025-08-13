@@ -14,7 +14,7 @@ Quietly building things that work (or sometimes don’t). Software developer wit
 <!-- Top row: First and third items side-by-side -->
 <div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=C084FC&duration=3000&pause=1000&width=280&lines=Full+Stack+Developer" alt="Typing - Dev"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=C084FC&duration=3000&pause=1000&width=280&lines=Open+Source+Admirer" alt="Typing - Open Source"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=C084FC&duration=3000&pause=1000&width=280&lines=DevOps+Enthusiast" alt="Typing - Open Source"/>
 </div>
 
 <!-- Middle row: Centered second item -->
