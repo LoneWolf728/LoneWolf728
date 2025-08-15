@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Lykon_banner.png" alt="Profile Banner" width="100%">
+  <img src="Lykos_banner.png" alt="Profile Banner" width="100%">
 </p>
 
 <!-- Animated Divider -->
