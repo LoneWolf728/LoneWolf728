@@ -35,9 +35,10 @@ Quietly building things that work (or sometimes don’t). Software developer wit
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LoneWolf728&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/stars/LoneWolf728?style=flat-square&label=Stars" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=LoneWolf728&label=Profile+Views&color=800080&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/stars/LoneWolf728?style=flat-square&label=Stars&color=800080" alt="GitHub Stars"/>
 </p>
+
 
 <!-- Animated Divider -->
 <p align="center">
