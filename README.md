@@ -111,6 +111,17 @@ A RESTful API for bookstore management with CRUD operations, shopping cart funct
   <img src="animated_gradient_line.gif" width="100%" />
 </p>
 
+### 📋 [To-Do List Web App](https://github.com/LoneWolf728/TodoApp)
+
+A simple, intuitive to-do list web application built with Node.js, Express, MongoDB, and EJS following MVC architecture.
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"> <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="animated_gradient_line.gif" width="100%" />
+</p>
+
 ### 📸 [Instagram Downloader](https://github.com/LoneWolf728/Instagram-Downloader)  
 A Python GUI application that enables anonymous Instagram story downloads without marking them as "seen" — perfect for private viewing and bulk media downloads from both public and private accounts.  
 
