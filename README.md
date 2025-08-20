@@ -101,6 +101,16 @@ A secure, scalable task management app built with Spring Boot, Angular, MongoDB,
   <img src="animated_gradient_line.gif" width="100%" />
 </p>
 
+### 📖 [Bookstore API](https://github.com/LoneWolf728/Bookstore_API)  
+A RESTful API for bookstore management with CRUD operations, shopping cart functionality, and order processing built with Java and JAX-RS.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/JAX--RS-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Jersey-FF6600?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"> <img src="https://img.shields.io/badge/Jackson-000000?style=for-the-badge&logo=json&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="animated_gradient_line.gif" width="100%" />
+</p>
+
 ### 📸 [Instagram Downloader](https://github.com/LoneWolf728/Instagram-Downloader)  
 A Python GUI application that enables anonymous Instagram story downloads without marking them as "seen" — perfect for private viewing and bulk media downloads from both public and private accounts.  
 
