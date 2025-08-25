@@ -180,14 +180,6 @@ A Chrome extension that (gently) roasts you for hoarding tabs like a digital dra
   </a>
 </div>
 
-When I’m not glued to VS Code, you’ll catch me:
-
-- 😴 Catching up on sleep  
-- 🏍️ Riding my bike  
-- 🎥 Binge-watching sci-fi or medieval fantasy movies  
-- 🎶 Vibing to melancholic soundscapes  
-- 🏎️ Watching MotoGP and F1 races  
-
 <!-- Animated Divider -->
 <p align="center">
   <img src="animated_gradient_line.gif" width="100%" />
