@@ -17,11 +17,6 @@ Quietly building things that work (or sometimes don’t). Software developer wit
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=C084FC&duration=3000&pause=1000&width=280&lines=DevOps+Engineer" alt="Typing - Open Source"/>
 </div>
 
-<!-- Middle row: Centered second item -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=C084FC&duration=3000&pause=1000&width=300&lines=Security+Advocate" alt="Typing - Cyber"/>
-</div>
-
 <p align="center">
   <a href="http://dineth.co/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-dineth.co-1f2023?style=for-the-badge&logo=firefox-browser&logoColor=white">
