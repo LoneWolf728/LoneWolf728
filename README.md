@@ -13,7 +13,6 @@ Quietly building things that work (or sometimes don’t). Software developer wit
 
 <!-- Top row: First and third items side-by-side -->
 <div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=C084FC&duration=3000&pause=1000&width=280&lines=Full+Stack+Developer" alt="Typing - Dev"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=C084FC&duration=3000&pause=1000&width=280&lines=DevOps+Engineer" alt="Typing - Open Source"/>
 </div>
 
@@ -52,13 +51,6 @@ I’m a developer who gets things done, with a knack for **cybersecurity**, **au
 
 <br/>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoneWolf728&layout=compact&theme=dracula&hide_border=true" 
-    alt="Top Languages" 
-    width="500" />
-</p>
-
 <!-- Animated Divider -->
 <p align="center">
   <img src="animated_gradient_line.gif" width="100%" />
@@ -70,6 +62,16 @@ I’m a developer who gets things done, with a knack for **cybersecurity**, **au
 A Flutter + Firebase app that connects university students with study partners via smart matching.  
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="animated_gradient_line.gif" width="100%" />
+</p>
+
+### [Whispers Unheard](https://whispersunheard.site/)  
+A React + Supabase platform for Sri Lankans to anonymously share untold stories and unsent messages — a digital sanctuary for emotions that never found their voice.  
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> <img src="https://img.shields.io/badge/EmailJS-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white">
 
 <!-- Animated Divider -->
 <p align="center">
