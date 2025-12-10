@@ -159,7 +159,7 @@ A Chrome extension that (gently) roasts you for hoarding tabs like a digital dra
   <img src="animated_gradient_line.gif" width="100%" />
 </p>
 
-## Outside the Code
+## Outside the Code - Now Listening to...
 
 <div align="center">
   <a href="https://open.spotify.com/user/lonewolf728" target="_blank">
