@@ -8,7 +8,7 @@
 </p>
 
 # Hola, I’m Dineth
-Quietly building things that work (or sometimes don’t). Aspiring DevOps Engineer / Software Developer with a curious mind, a keyboard, and a Fedora (🐧 kind).
+Quietly building things that work (or sometimes don’t). Aspiring DevOps Engineer / Software Developer with a curious mind, a keyboard, and a Fedora (the 🐧 kind).
 
 
 <!-- Top row: First and third items side-by-side -->
