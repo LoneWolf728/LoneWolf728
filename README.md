@@ -78,6 +78,36 @@ A React + Supabase platform for Sri Lankans to anonymously share untold stories 
   <img src="animated_gradient_line.gif" width="100%" />
 </p>
 
+### [Code Snippet Holder Plasmoid](https://www.pling.com/p/2333778/)  
+A KDE Plasma widget that allows you to store, organize, and quickly copy code snippets (Not just code snippets, but SQL queries, other notes, configs, etc... ) directly from your desktop panel.  
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white"> <img src="https://img.shields.io/badge/QML-4B6EAF?style=for-the-badge&logo=qt&logoColor=white">
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="animated_gradient_line.gif" width="100%" />
+</p>
+
+### [Google Keep Plasmoid](https://www.pling.com/p/2293536/)  
+A sleek KDE Plasma 6 widget for quick access to Google Keep — right from your panel.  
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white"> <img src="https://img.shields.io/badge/QML-4B6EAF?style=for-the-badge&logo=qt&logoColor=white">
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="animated_gradient_line.gif" width="100%" />
+</p>
+
+### [YouTube Plasmoid](https://www.pling.com/p/2298904/)  
+A KDE Plasma widget that provides quick access to YouTube directly from your desktop or panel.
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white"> <img src="https://img.shields.io/badge/QML-4B6EAF?style=for-the-badge&logo=qt&logoColor=white">
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="animated_gradient_line.gif" width="100%" />
+</p>
+
 ### [Task Manager](https://task-manager-rouge-five.vercel.app/auth/login)  
 A secure, scalable task management app built with Spring Boot, Angular, MongoDB, and Docker.  
 
@@ -113,36 +143,6 @@ A simple, intuitive to-do list web application built with Node.js, Express, Mong
 A Python GUI application that enables anonymous Instagram story downloads without marking them as "seen" — perfect for private viewing and bulk media downloads from both public and private accounts.  
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Tkinter-FF6B6B?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/InstCapture-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white"> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"> <img src="https://img.shields.io/badge/Threading-FFA500?style=for-the-badge&logo=python&logoColor=white">
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="animated_gradient_line.gif" width="100%" />
-</p>
-
-### [Code Snippet Holder Plasmoid](https://www.pling.com/p/2333778/)  
-A KDE Plasma widget that allows you to store, organize, and quickly copy code snippets (Not just code snippets, but SQL queries, other notes, configs, etc... ) directly from your desktop panel.  
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white"> <img src="https://img.shields.io/badge/QML-4B6EAF?style=for-the-badge&logo=qt&logoColor=white">
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="animated_gradient_line.gif" width="100%" />
-</p>
-
-### [Google Keep Plasmoid](https://www.pling.com/p/2293536/)  
-A sleek KDE Plasma 6 widget for quick access to Google Keep — right from your panel.  
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white"> <img src="https://img.shields.io/badge/QML-4B6EAF?style=for-the-badge&logo=qt&logoColor=white">
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="animated_gradient_line.gif" width="100%" />
-</p>
-
-### [YouTube Plasmoid](https://www.pling.com/p/2298904/)  
-A KDE Plasma widget that provides quick access to YouTube directly from your desktop or panel.
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white"> <img src="https://img.shields.io/badge/QML-4B6EAF?style=for-the-badge&logo=qt&logoColor=white">
 
 <!-- Animated Divider -->
 <p align="center">
