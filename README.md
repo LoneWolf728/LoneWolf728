@@ -44,9 +44,9 @@ Quietly building things that work (or sometimes don’t). Aspiring DevOps Engine
 I’m a developer who gets things done, with a knack for **cybersecurity**, **automation**, and clean (sometimes chaotic) code. Think of me as the dedicated tech support for friends and family :)
 
 - **Currently exploring**: Robotics, Containerization, and Cloud platforms  
-- **Interested in**: Cybersecurity, Networking, and Smart automation  
+- **Interested in**: Cybersecurity, Networking, and Automation  
 - **Languages**: Python, Java, Dart, JavaScript/TypeScript, C#  
-- **Tools**: Linux (Fedora + KDE, Kali + XFCE), VS Code, Git, Docker  
+- **Tools**: Linux (Fedora + KDE, Kali + XFCE) & VS Code
 - **Studying**: Computer Science at IIT (University of Westminster)
 
 <br/>
