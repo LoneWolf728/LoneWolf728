@@ -89,6 +89,16 @@ A React + Supabase platform for Sri Lankans to anonymously share untold stories 
   <img src="animated_gradient_line.gif" width="100%" />
 </p>
 
+### [HoldStrong](https://github.com/lykon7/HoldStrong)  
+A privacy-first discipline and personal finance tracker built with Flutter. It helps users track resisted cravings, visualize goal progress, and manage daily income and expenses with local on-device storage.
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/Riverpod-000000?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Isar%20Database-3498DB?style=for-the-badge">
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="animated_gradient_line.gif" width="100%" />
+</p>
+
 ### [Code Snippet Holder Plasmoid](https://www.pling.com/p/2333778/)  
 A KDE Plasma widget that allows you to store, organize, and quickly copy code snippets (Not just code snippets, but SQL queries, other notes, configs, etc... ) directly from your desktop panel.  
 
